@@ -11,5 +11,8 @@
 * Pushen Sie das Repository.
 * Erstellen Sie einen Branch mit Ihrer branchXX wobei XX fuer Ihre Katalognummer steht.
 * Erstellen Sie in diesem Branch eine Datei readmeXX.txt wobei XX wieder Ihre Katalognummer darstellt.
+* Comitten Sie die Datei
+* Aendern Sie den Inhalt der datei readmeXX.txt auf den Ihnalt 2018-10-15
+* Comitten Sie die Datei
 * Mergen Sie diesen Branch in Ihren Masterbranch.
 * Pushen Sie das Repository.
